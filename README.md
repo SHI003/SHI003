@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @SHI003
+- 👀 I’m interested in Web Designer...
+- 🌱 I’m currently learning in BCA...
+- 📫 How to reach me sra306254@gmail.com...
+
+<!---
+SHI003/SHI003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
